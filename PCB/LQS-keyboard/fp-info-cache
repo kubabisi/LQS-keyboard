@@ -1,4 +1,4 @@
-57736178102681
+61239547894315
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101311,6 +101311,13 @@ switch, low_profile
 3
 2
 key-switches
+SW_Kailh_Choc_V1V2_THT_Hybrid_doubleside
+Compatible with Kailh Choc V1 (PG1350) and Choc V2 (PG1353) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+5
+2
+key-switches
 SW_Kailh_Choc_V1_HotSwap
 Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, hot-swap socket, single-sided mounting.
 switch, low_profile, hot_swap
@@ -101506,3 +101513,10 @@ XIAO-nRF52840-SMD
 0
 22
 22
+theonepromicro
+TheOneProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+41
+35

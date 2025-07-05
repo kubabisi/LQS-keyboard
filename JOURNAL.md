@@ -30,14 +30,25 @@ Because I wanted to use Choc v2 switches and Seeed XIAO mcu I needed to find req
 Quickly I've found siderakb's switch footprints and oficial XIAO kicad files.
 
 Schematic is simple. Just switches, diodes and microcontroller. I've also added jumpers to make one pcb for both halves.
-![schematic](images/schematic.png)
+![schematic](images/schematic-1.png)
 
 Then came the time for the pcb. Ergogen generated a base pcb, but I needed to swap all switch footprints to the right ones. (Only later I've read on the Highway website that there is a tool that would have done that for me)
 
 PCB design isn't as hard as I thought, but it is tedious. While I don't think that my pcb is great, it should work just fine.
-![pcb front](images/LQS-keyboard-pcb-front.png)
-![pcb back](images/LQS-keyboard-pcb-back.png)
-
+![pcb front](images/LQS-keyboard-pcb-front-1.png)
+![pcb back](images/LQS-keyboard-pcb-back-1.png)
 
 
 Total time spent: ~8 hours
+
+# July 5th: PCB changes and BOM
+
+While looking for parts on Aliexpress I found cheaper mcu - clones of nice!nano v2, and I decided to use them instead of XIAOs.
+Also I realised that to make the PCB reversible I also needed to modify key switch footprints.
+
+While rewiring I also added an RGB led indicator (XIAO has one bulit in, but n!n doesn't).
+
+![changes in schematic](images/schematic-2.png)
+![current pcb](images/pcb-2.png)
+
+Total time spent: ~3 hours
