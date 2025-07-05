@@ -45,6 +45,9 @@ Total time spent: ~8 hours
 
 While looking for parts on Aliexpress I found cheaper mcu - clones of nice!nano v2, and I decided to use them instead of XIAOs.
 Also I realised that to make the PCB reversible I also needed to modify key switch footprints.
+![modified footprint](images/modified-footprint.png)
+
+Which meant rewiring was required - yeah! /s
 
 While rewiring I also added an RGB led indicator (XIAO has one bulit in, but n!n doesn't).
 
