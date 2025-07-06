@@ -47,7 +47,7 @@ While looking for parts on Aliexpress I found cheaper mcu - clones of nice!nano 
 Also I realised that to make the PCB reversible I also needed to modify key switch footprints.
 ![modified footprint](images/modified-footprint.png)
 
-Which meant rewiring was required - yeah! /s
+Which meant rewiring was required - yay! /s
 
 While rewiring I also added an RGB led indicator (XIAO has one bulit in, but n!n doesn't).
 
@@ -55,3 +55,16 @@ While rewiring I also added an RGB led indicator (XIAO has one bulit in, but n!n
 ![current pcb](images/pcb-2.png)
 
 Total time spent: ~3 hours
+
+# July 6th: case
+
+Today I worked on shells for each keyboard half.
+
+I used Onshape for this. It was my first time using a proper CAD software (earlier I only used Tinkercad). While I quickly learned basics, I still don't know what most of its tools do.
+
+![shells](images/shells.png)
+![whole keyboard in CAD](images/cad-model.png)
+
+Today I also searched for parts, filled out the BOM and calculated prices for everyting.
+
+Total time spent: ~6 hours
