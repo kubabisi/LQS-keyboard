@@ -4,6 +4,7 @@ author: "kubabisi"
 description: "Silent low profile custom split keyboard"
 created_at: "2025-07-01"
 ---
+Total time spent so far: ~21 hours
 
 # July 1st: Brainstorming and pcb
 I started by listing what my keyboard needs to have:

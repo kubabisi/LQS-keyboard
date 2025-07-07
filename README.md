@@ -14,7 +14,8 @@ I wanted to build a proper keyboard, but I was too lazy to do it.
 Highway gave me the motivation that I needed to finally do it.
 
 ## CAD model
-![cad model](images/cad-model.png)
+![cad model](images/cad-model-final.png)
+![exploded cad model](images/cad-model-final-2.png)
 
 
 ## Switch layout
@@ -28,7 +29,8 @@ Switch layout was inspired by two keyboards I like: ZSA Voyager and Sofle
 ![keyboard half pcb](images/pcb-final.png)
 
 ## Case
-![keyboard case](images/shells.png)
+Case for this keyboard can be 3d printed. Stl files are located in [this folder](case)
+
 
 ## BOM
 
