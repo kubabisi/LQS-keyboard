@@ -16,7 +16,7 @@ Highway gave me the motivation that I needed to finally do it.
 ## CAD model
 ![cad model](images/cad-model-final.png)
 ![exploded cad model](images/cad-model-final-2.png)
-
+[this model in Onshape](https://cad.onshape.com/documents/f682215273ff2081de69d414/w/20c4360147d88d6d7c704790/e/f61e22c6f2ff044978f79a00?renderMode=0&uiState=686bf5d5abd8817fe4595698)
 
 ## Switch layout
 Switch layout was inspired by two keyboards I like: ZSA Voyager and Sofle
@@ -29,7 +29,7 @@ Switch layout was inspired by two keyboards I like: ZSA Voyager and Sofle
 ![keyboard half pcb](images/pcb-final.png)
 
 ## Case
-Case for this keyboard can be 3d printed. Stl files are located in [this folder](case)
+Case for this keyboard can be 3d printed. Stl files are located in [this folder](3d-models/case)
 
 
 ## BOM
