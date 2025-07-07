@@ -43,7 +43,7 @@ Case for this keyboard can be 3d printed. Stl files are located in [this folder]
 | RGB common anode 5mm led | 2 | 3.99 | 1.05 | Aliexpress | https://pl.aliexpress.com/item/4000225253691.html |
 | pin sockets | 52 pins - 2 rows | 7.10 | 1.87 | Aliexpress | https://pl.aliexpress.com/item/10000000838267.html |
 | PCB | 5 | 41.80 | 11.60 | JLCPCB | https://jlcpcb.com/ |
-| M2 4mm flat head screws | 8 | 3.62 | 0.96 | Aliexpress | https://pl.aliexpress.com/item/1005005270702287.html | 
+| M2 6mm flat head screws | 8 | 3.62 | 0.96 | Aliexpress | https://pl.aliexpress.com/item/1005005270702287.html | 
 | M2 3x3mm heat inserts | 8 | 5.6 | 1.47 | Aliexpress | https://pl.aliexpress.com/item/1005008295045821.html |
 | resistors for leds | 6 | ~4 | ~1 | |  |
 | keycap set | 1 | ~120 | ~35 | | |
