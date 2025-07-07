@@ -21,9 +21,14 @@ Highway gave me the motivation that I needed to finally do it.
 Switch layout was inspired by two keyboards I like: ZSA Voyager and Sofle
 ![layout in ergogen](images/ergogen-layout.png)
 
+## Schematic
+![keyboard half schematic](images/schematic-final.png)
 
+## PCB
+![keyboard half pcb](images/pcb-final.png)
 
-
+## Case
+![keyboard case](images/shells.png)
 
 ## BOM
 
@@ -34,16 +39,18 @@ Switch layout was inspired by two keyboards I like: ZSA Voyager and Sofle
 | 301230 lipo battery | 2 | 45.25 | 11.70 | Allegro.pl | https://allegro.pl/oferta/akumulator-litowo-polimerowy-110mah-3-7v-phr-2-bk-301230-17500532114 |
 | 1n4148 diodes | 58 | 5.55 | 1.47 | Aliexpress | https://pl.aliexpress.com/item/4000142272546.html |
 | RGB common anode 5mm led | 2 | 3.99 | 1.05 | Aliexpress | https://pl.aliexpress.com/item/4000225253691.html |
-| pin sockets | 52 pins | 7.10 | 1.87 | Aliexpress | https://pl.aliexpress.com/item/10000000838267.html |
+| pin sockets | 52 pins - 2 rows | 7.10 | 1.87 | Aliexpress | https://pl.aliexpress.com/item/10000000838267.html |
 | PCB | 5 | 41.80 | 11.60 | JLCPCB | https://jlcpcb.com/ |
 | M2 4mm flat head screws | 8 | 3.55 | 0.87 | Aliexpress | https://pl.aliexpress.com/item/1005005270702287.html | 
-| M2 3x3mm heat inserts | 8 | 5.6 | 1.47 | Aliexpress | https://pl.aliexpress.com/item/1005008295045821.html?pdp_ext_f=%7B%22sku_id%22%253A%2212000044536166973%22%7D |
-| resistors for leds | 6 | ~4 | ~1 | Aliexpress |  |
-| keycap set | 1 | ~120 | ~35 | Aliexpress | |
+| M2 3x3mm heat inserts | 8 | 5.6 | 1.47 | Aliexpress | https://pl.aliexpress.com/item/1005008295045821.html |
+| resistors for leds | 6 | ~4 | ~1 | |  |
+| keycap set | 1 | ~120 | ~35 | | |
+| 3d printed case | 2 | | | | |
 
-Total: ~380 PLN / ~$105 USD
+Total (excluding shipping): ~380 PLN / ~$105 USD
 
-I already have keycaps and resistors.
+I already have keycaps and resistors. My brother has a 3d printer at home.
 
 Total excluding parts I have, with shipping:
-$67 + $21 (JLCPCB shipping) + $0 (Aliexpress Choice free shipping) = $88
+- $66.77 + $21.50 (JLCPCB shipping) + $0 (Aliexpress Choice free shipping) = $88.27
+- 253,61zł + 77,63zł + 0zł = 331.24zł
