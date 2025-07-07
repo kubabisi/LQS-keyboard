@@ -68,3 +68,16 @@ I used Onshape for this. It was my first time using a proper CAD software (earli
 Today I also searched for parts, filled out the BOM and calculated prices for everyting.
 
 Total time spent: ~6 hours
+
+# July 7th: firmware and case pt.2
+
+I decided to modify the case to add a plate for the switches.
+![plates](images/plates.png)
+![whole keyboard](images/cad-model-final.png)
+
+Today I mostly worked on the ZMK firmware configuration.
+I followed the guide from ZMK's docs.
+
+After completing it and fixing a few small errors, I've got it to successfully compile.
+
+Total time spent: ~4 hours
